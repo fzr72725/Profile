@@ -21,6 +21,6 @@ This repository contains some machine learning projects that I have been worked 
     * [training data] (https://github.com/fzr72725/Profile/blob/master/data/train.csv)
     * [testing data] (https://github.com/fzr72725/Profile/blob/master/data/test.csv)
  * [bikeShare.ipynb] (https://github.com/fzr72725/Profile/blob/master/bikeShare.ipynb)
-    * For this prediction, I used linear regression. Also, I clustered the data into two groups based on different patterns corresponding to weekday or weekend. Furthur
-  modeling is needed to see if by clustering the data, the prediction accuracy can be improved.
+    * For this prediction, I used various algorithms from sklearn.linear_model on the continuous features, as well as decision tree regressor on categorical features. Also, I clustered the data into two groups based on different patterns corresponding to weekday or weekend. Furthur
+  modeling can be done to see if by clustering the data, the prediction accuracy can be improved.
   
