@@ -11,16 +11,17 @@ This repository contains some machine learning projects that I have been worked 
     * [MNIST_tensorflow.ipynb] (https://github.com/fzr72725/Profile/blob/master/MNIST_tensorflow.ipynb)
       In this notebook I used Google's Tensorflow to apply convolutional neurual network on the data. The accuracy improved by 1%. My ranking
       jumped to 192 on the leaderboard.
-2. Yelp Review NLP
- * The training and testing data files are downloaded from a tutorial github repo into the "data" folder in this repository.
-    * [raw data] (https://github.com/fzr72725/Profile/blob/master/data/yelp.json)
- * [NLP_NaiveBayes.ipynb] (https://github.com/fzr72725/Profile/blob/master/NLP_NaiveBayes.ipynb)
-    * In this notebook, I applied various text processing method onto the collected yelp review text content. After preprocessing, I ran Naive Bayes on the data for the prediction.
-3. [Bike Sharing Demand] (https://www.kaggle.com/c/bike-sharing-demand)
+2. [Bike Sharing Demand] (https://www.kaggle.com/c/bike-sharing-demand)
  * The training and testing data files are downloaded from Kaggle.com to the "data" folder in this repository.
     * [training data] (https://github.com/fzr72725/Profile/blob/master/data/train.csv)
     * [testing data] (https://github.com/fzr72725/Profile/blob/master/data/test.csv)
  * [bikeShare.ipynb] (https://github.com/fzr72725/Profile/blob/master/bikeShare.ipynb)
     * For this prediction, I used various algorithms from sklearn.linear_model on the continuous features, as well as decision tree regressor on categorical features. Also, I clustered the data into two groups based on different patterns corresponding to weekday or weekend. Furthur
   modeling can be done to see if by clustering the data, the prediction accuracy can be improved.
+3. Yelp Review NLP
+ * The training and testing data files are downloaded from a tutorial github repo into the "data" folder in this repository.
+    * [raw data] (https://github.com/fzr72725/Profile/blob/master/data/yelp.json)
+ * [NLP_NaiveBayes.ipynb] (https://github.com/fzr72725/Profile/blob/master/NLP_NaiveBayes.ipynb)
+    * In this notebook, I applied various text processing method onto the collected yelp review text content. After preprocessing, I ran Naive Bayes on the data for the prediction.
+
   
