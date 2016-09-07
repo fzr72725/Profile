@@ -23,5 +23,6 @@ This repository contains some machine learning projects that I have been worked 
     * [raw data] (https://github.com/fzr72725/Profile/blob/master/data/yelp.json)
  * [NLP_NaiveBayes.ipynb] (https://github.com/fzr72725/Profile/blob/master/NLP_NaiveBayes.ipynb)
     * In this notebook, I applied various text processing method onto the collected yelp review text content. After preprocessing, I ran Naive Bayes on the data for the prediction.
-
-  
+4. [Expedia Hotel Recommendations] (https://www.kaggle.com/c/expedia-hotel-recommendations)
+ * he training and testing data files are too large to be stored at Github. 
+ * This is still in progress.
