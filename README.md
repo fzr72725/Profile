@@ -1,5 +1,5 @@
 # Profile
-This repository contains some machine learning projects that I have been worked on recently.
+This repository contains some machine learning projects that I have been working on recently.
 # Description
 1. [Digit Recognizer] (https://www.kaggle.com/c/digit-recognizer)
  * The training and testing data files are downloaded from Kaggle.com to the "data" folder in this repository.
